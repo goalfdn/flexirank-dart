@@ -1,6 +1,6 @@
 name: flexirank
-description: A sample command-line application.
-version: 1.0.0
+description: A simple ranking system optimized for reordering lists.
+version: 0.1.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
