@@ -1,7 +1,7 @@
 name: flexirank
 description: A simple ranking system optimized for reordering lists.
 version: 0.1.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/goalfdn/flexirank-dart.git
 
 environment:
   sdk: ^3.2.4
